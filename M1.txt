@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 11; SM-A426B Build/PD2A.445377.148) [FBAN/Orca-Android;FBAV/470.0.0.46.109;FBPN/com.facebook.orca;FBLC/en_Qaau_US;FBBV/630169011;FBCR/Etisalat;FBMF/Samsung;FBBD/Samsung;FBDV/SM-A426B;FBSV/11;FBCA/armeabi-v7a:armeabi;;FBDM={density=2.7,width=1080,height=2400};FB_FW/1;]
+[FBAN/FB4A;FBAV/465.0.0.0.6;FBBV/452000754;FBDM/{density=3.0,width=720,height=1612};FBLC/en_US;FBRV/0;FBCR/Jio;FBMF/itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/S665L;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
